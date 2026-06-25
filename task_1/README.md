@@ -14,13 +14,19 @@ This folder contains my solution for Task 1 of the Synergy Task Phase. I learned
 
 ## Creating and Activating the Virtual Environment
 
+'''bash
 python -m venv myenv
 source myenv/Scripts/activate
+'''
 
 ## Install the Required Packages
 
+'''bash
 pip install -r requirements.txt
+'''
 
 ## Run the Python Program
 
+'''bash
 python task_1/src/hello.py
+'''
