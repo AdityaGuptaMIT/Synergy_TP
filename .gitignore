@@ -1,0 +1,5 @@
+task_1/myenv/
+task_2/myenv/
+__pycache__/
+*.pyc
+.vscode/
